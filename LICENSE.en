@@ -1,0 +1,57 @@
+Open Binary License v0.9.0
+Copyright (c) 2022 IAX86
+
+Use of this binary requires acceptance of this license. BY ACCEPTING THIS LICENSE, YOU ACCEPT TO BE BOUND BY THIS LICENSE.
+
+1. Definition and Applicability
+    -1. "Distribution" refers to programs, etc. that are distributed and published under this license.
+    -2. "Affiliated Parties" refers to all persons who create, author, or distribute distributed materials.
+    -3. All "acts" can be freely performed within the limits of local laws.
+    -4. This License shall apply to the Distribution and to itself.
+
+2. User Rights
+    -1. The user can perform the acts shown below.
+        (1). Advertise the Handout.
+        (2). Publish the distribution or place it on a server.
+        (3). Disclosure of scripts or other programs using distributed materials. However, the source code of the distributed product shall not be used.
+    -2. The user can demand the following actions from the author, producer, and distributor of the distributed material.
+        (1). Reporting problems with distributions and requesting corrections
+        (2). Suggestions for distribution product functions and additional requests
+
+3. Obligations of users
+    -1. Users must do the following in addition to the preceding sentence.
+        (1). Identify any of the parties involved when advertising, distributing, or distributing.
+    -2. The following actions by users are prohibited.
+        (1).Acts of acquiring, browsing, and publishing undisclosed source code of distribution products.
+        (2). The act of viewing or editing the distributed material directly using a binary editor or the like.
+        (3). The act of altering the distribution in any way and opening it to an unspecified number of people.
+        (4). Acts of requesting a change of license from the parties concerned. However, this does not include the addition or deletion of licenses other than this license.
+        (5). If the User is not an Affiliate, nevertheless act as if the User is an Affiliate.
+        (6). Other acts that may cause damage to related parties or other users.
+
+4. Obligations of Parties
+    -1. Parties must do the following to ensure that users can properly use the distributed materials.
+        (1). Designation of Appropriate License.
+        (2). When the distribution is a program, its management, correction of problems, and display of the license or copyright in an easy-to-understand place.
+        (3). When the distribution is other binary, its management and problem correction, advertising or other means of copyright or license notice.
+    -2. The following acts by related parties are prohibited.
+        (1). Actions that do not apply other licenses that need to be applied.
+        (2). Actions that do not attempt to fix problems that need to be fixed.
+
+5. Miscellaneous
+    -1. Subject to this License only, the parties are not compelled to publish the source code and may refuse the request for publication.
+    -2. If it becomes necessary to release the source code due to restrictions or obligations under Article 4 or other licenses, it is possible to apply other licenses to the source code and continue to apply this license to the binaries.
+    -3. Notwithstanding the preceding paragraph, if this license can no longer be applied to some binaries, please remove this license from all of the distribution and do not use it.
+
+6. LICENSE APPLICATION AND MODIFICATIONS
+    -1. If your distribution is a single binary, display in a conspicuous place in your distribution that this license applies.
+    -2. If the distribution consists of multiple binaries, or as an alternative to the preceding paragraph, please display the full text of this license in a conspicuous place on the software.
+    -3. When displaying in the setting tool (installer) of the distribution, be sure to display the full text.
+    -4. If you modify this license, please change the license name and change the name of the license producer in Article 7, Paragraph 3 to the name of the producer.
+
+7. Disclaimer, copyright notice
+    -1. Notwithstanding Article 1, Paragraph 4, the License Creator disclaims all liability related to this license.
+    -2. The License Creator shall not be held responsible for any problems arising from the distribution, related parties, or users.
+    -3. This license is produced by IAX86 and all rights of this license are reserved.
+
+that's all
