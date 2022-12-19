@@ -1,4 +1,4 @@
 # Open-Binary-License
 
  Open Binary License Repository  
- There is not stable release now.  
+ There is nothing to release now.  
